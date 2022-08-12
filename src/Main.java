@@ -1,3 +1,10 @@
+/**
+ * Калабеков С.К.
+ * ДЗ №3
+ * 12.08.2022
+ * */
+
+
 import java.util.Arrays;
 import java.util.List;
 
